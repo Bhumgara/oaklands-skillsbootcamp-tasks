@@ -1,4 +1,8 @@
-Work submissions are:
+# Week 1 Notes
+## Overview
+This week we looked at Git and GitHub using the command line primarily.
+
+## Work Submissions
 
 - [x] Initial assessment
 - [x] Command line activity/workflow Document
