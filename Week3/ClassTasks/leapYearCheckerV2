@@ -11,6 +11,7 @@ if(not yearNumber.isnumeric()):
     exit()
 else:
     yearNumber = int(yearNumber)
+    
 if(yearNumber % 4 == 0 and yearEra == "CE") or ((yearNumber-1) % 4 == 0 and yearEra == "BCE" and yearNumber <= 45):
     print(f"{yearNumber} {yearEra} is a leap year!")
 else:

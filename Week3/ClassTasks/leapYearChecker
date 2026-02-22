@@ -1,8 +1,10 @@
 yearInput = input("Input a year: ")
+
 if(not yearInput.isnumeric()):
     exit()
 else:
     yearInput = int(yearInput)
+
 if(yearInput % 4 == 0):
     print(f"The year {yearInput} is a leap year!")
 else:
