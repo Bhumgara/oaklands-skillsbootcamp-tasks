@@ -14,7 +14,7 @@ This week we looked at Python grammar, specifically highlighting control flows, 
     - [ ] Dictionary Methods 
   - [ ] Sequenses
   - [ ] Memory
-- [ ] Homework task PDF - Pizza
+- [x] Homework task PDF - Pizza
 - [ ] Work on Python Essentials in Cisco Networking Academy
 
 Email to: savithiri.praveenku@oaklands.ac.uk
