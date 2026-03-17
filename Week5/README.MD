@@ -24,19 +24,19 @@ This week we looked at Python grammar, specifically highlighting xxx. In additio
         - Unit tests
     - [ ] Deployment
         - CI/CD
-- [ ] Prepare python applications for testing scenarios
-    - [ ] Pizza task from Week 4 homework
-    - [ ] Add super cars experience calculator and justify and evaluate the program.
-- [ ] Complete work on Python Essentials in Cisco Networking Academy
+- [x] Prepare python applications for testing scenarios
+    - [x] Pizza task from Week 4 homework
+    - [x] Add super cars experience calculator and justify and evaluate the program.
+- [x] Complete work on Python Essentials in Cisco Networking Academy
     - https://www.netacad.com/courses/python-essentials-1
-    - [ ] Section 1
-    - [ ] Section 2
-    - [ ] Section 3
-    - [ ] Section 4
-    - [ ] Final Project
-    - [ ] Course Survey
-    - [ ] End of Course Exam
-    - [ ] Certificate
+    - [x] Section 1
+    - [x] Section 2
+    - [x] Section 3
+    - [x] Section 4
+    - [x] Final Project
+    - [x] Course Survey
+    - [x] End of Course Exam
+    - [x] Certificate
 
 Email to: savithiri.praveenku@oaklands.ac.uk
 
